@@ -1,6 +1,6 @@
 # Cocktails-recipes
 
-A collection of cocktail recipes, in French only for now.
+[A collection of cocktail recipes](Cocktails.md), in French only for now.
 
 This started as a simple txt file on my phone. 
 
