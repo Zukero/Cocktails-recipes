@@ -14,3 +14,4 @@ Servir dans un verre avec une paille et des glaçons.
 
 ## Notes
 Cocktail acidulé qui sent bon le terroir, et assez puissant. Pas plus de deux par client ! 
+Le sirop de sauge est fait maison avec la sauge du jardin.  Voir la recette dans la section ingrédients. 
