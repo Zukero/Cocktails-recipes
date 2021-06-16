@@ -13,7 +13,5 @@
 Frapper au shaker. \
 Servir tel quel. Décorer de 3 grains de café. 
 
-## Notes
-
 ## Source
 IBA : https://iba-world.com/espresso-martini/
