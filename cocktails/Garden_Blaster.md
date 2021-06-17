@@ -4,7 +4,7 @@
 
 - 4cl Calva
 - 2cl Cointreau
-- 1cl sirop de sauge
+- 1cl sirop de sauge [(la recette ici)](../ingredients/Sirop_de_sauge.md) 
 - 1cl jus de citron vert
 
 ## Préparation
