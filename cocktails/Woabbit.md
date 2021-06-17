@@ -16,6 +16,7 @@ Servir dans un verre à cocktail avec paille et glaçons.
 
 ## Notes
 
+Fonctionne aussi sans le Gin, mais on perd une partie du goût... \
 Faire le jus de carottes à partir de carottes fraîches, à l'extracteur de jus ou à la centrifugeuse. C'est bien meilleur, et on peut faire une jolie déco avec de la carotte au passage ! 
 
  \

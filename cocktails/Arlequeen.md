@@ -20,6 +20,7 @@ Verser le sirop de fraises dans le verre.
 
 ## Notes
 
+Aussi très bon sans le rhum ! \
 Monin fait un bon sirop de basilic. Pas toujours facile à trouver en boutique, mais en ligne pas de problème. \
 On peut utiliser du gingembre surgelé (au rayon des aromates surgelés), plus pratique et plus facile à conserver, mais moins bon. \
 Quelques gouttes du "Tonic bitters" de "The bitter truth" font merveille, si vous arrivez à en trouver. 
