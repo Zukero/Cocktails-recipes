@@ -1,6 +1,5 @@
 # Cocktails
 
-
 ## Les miens
 
 [Arlequeen](cocktails/Arlequeen.md)
@@ -21,7 +20,8 @@
 
 [Woabbit](cocktails/Woabbit.md)
 
-## Ceux des autres 
+
+## Les autres
 
 [Bee's Knees](cocktails/Bees_Knees.md)
 
@@ -34,3 +34,8 @@
 [Punch Nounou](cocktails/Punch_Nounou.md)
 
 [Whisky Cannelle](cocktails/Whisky_Cannelle.md)
+
+# Ingrédients
+
+[Sirop de sauge](ingredients/Sirop_de_sauge.md)
+

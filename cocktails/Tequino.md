@@ -18,3 +18,6 @@ Servir dans un verre avec une paille et des glaçons, et accompagner avec la bou
 ## Notes
 
 Idéal par temps chaud, donne un effet "Gaspacho vert" par son côté salé. 
+
+ \
+[Retour à l'index](../index.md)

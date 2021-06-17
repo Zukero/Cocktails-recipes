@@ -17,3 +17,6 @@ Il y a de nombreuses recettes pour le Blue Lagoon. Celle-ci ressemble assez à u
 
 ## Source
 1001 cocktails : https://www.1001cocktails.com/recettes/recette_blue-lagoon_354973.aspx 
+
+ \
+[Retour à l'index](../index.md)

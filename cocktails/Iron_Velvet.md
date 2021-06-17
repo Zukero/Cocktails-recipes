@@ -18,3 +18,6 @@ Ajouter la citronnelle ciselée et le sirop de romarin. \
 Ajouter le gin et les jus et frapper avec des glaçons. \
 Servir dans un grand verre avec quelques glaçons en filtrant avec une passoire fine. \
 Ajouter une rondelle de citron vert et une ou deux gouttes de bitter. 
+
+ \
+[Retour à l'index](../index.md)

@@ -25,4 +25,5 @@ On peut utiliser du gingembre surgelé (au rayon des aromates surgelés), plus p
 Quelques gouttes du "Tonic bitters" de "The bitter truth" font merveille, si vous arrivez à en trouver. 
 
 
-
+ \
+[Retour à l'index](../index.md)

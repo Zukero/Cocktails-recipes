@@ -16,3 +16,6 @@ Servir dans un verre avec une paille et des glaçons.
 ## Notes
 
 Fonctionne très bien sans alcool. Remplacer le rhum par du jus d'orange pour conserver le volume si besoin. 
+
+ \
+[Retour à l'index](../index.md)

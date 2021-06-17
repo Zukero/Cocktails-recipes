@@ -17,3 +17,6 @@ Ajouter des glaçons et ajiter au moment de servir.
 
 ## Source
 Cusine AZ : https://www.cuisineaz.com/recettes/cocktail-au-whisky-a-la-cannelle-83929.aspx
+
+ \
+[Retour à l'index](../index.md)

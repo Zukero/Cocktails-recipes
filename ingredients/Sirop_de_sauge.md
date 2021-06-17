@@ -17,3 +17,6 @@ Remettre l'eau obtenue dans une casserole avec le sucre, et faire chauffer à fe
 Laver, rincer soigneusement, et ébouillanter deux bouteilles de verre (pour environ 1,2l de sirop). \
 Embouteiller le sirop en le filtrant avec un filtre à café pour éviter les impuretés. Comme cette opération peut prendre pas mal de temps, laisser la casserole sur feu très doux et couverte. Le sirop chaud passe plus facilement le filtre. \
 Conserver le sirop au réfrigérateur. 
+
+ \
+[Retour à l'index](../index.md)

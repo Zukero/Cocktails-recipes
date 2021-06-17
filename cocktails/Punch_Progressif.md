@@ -17,3 +17,6 @@ Servir dans un verre avec une paille et des glaçons.
 ## Notes
 
 Fonctionne très bien sans alcool, ou avec de la vodka à la place du rhum.
+
+ \
+[Retour à l'index](../index.md)

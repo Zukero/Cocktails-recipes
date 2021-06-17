@@ -15,3 +15,6 @@ Servir dans un verre avec une paille et des glaçons.
 ## Notes
 
 Une sorte de russe blanc des tropiques, sympa en dessert. 
+
+ \
+[Retour à l'index](../index.md)

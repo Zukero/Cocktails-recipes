@@ -13,3 +13,6 @@ Servir tel quel.
 
 ## Source
 IBA  : https://iba-world.com/bees-knees/ 
+
+ \
+[Retour à l'index](../index.md)

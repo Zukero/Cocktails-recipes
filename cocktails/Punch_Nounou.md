@@ -16,3 +16,6 @@ Servir sur des glaçons et décorer avec une pincée de cannelle.
 
 ## Source
 https://larecette.net/10-cocktails-de-noel/
+
+ \
+[Retour à l'index](../index.md)

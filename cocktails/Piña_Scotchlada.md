@@ -11,3 +11,6 @@
 
 Frapper le tout au shaker.\
 Servir dans un verre avec une paille et des glaçons.
+
+ \
+[Retour à l'index](../index.md)
