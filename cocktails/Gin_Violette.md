@@ -9,8 +9,8 @@
 
 ## Préparation
 
-Verser le gin, le sirop de violette et le jus de citron dans un verre, ajouter quelques glaçons, et agiter avec une cuillère. 
-Remplir le verre avec de l'eau gazeuse. 
+Verser le gin, le sirop de violette et le jus de citron dans un verre, ajouter quelques glaçons, et agiter avec une cuillère. \
+Remplir le verre avec de l'eau gazeuse. \
 Décorer avec trois baies de genièvre. 
 
 ## Notes
