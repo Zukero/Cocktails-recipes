@@ -31,6 +31,8 @@
 
 [Espresso Martini](cocktails/Espresso_Martini.md)
 
+[Gin Violette](cocktails/Gin_Violette.md)
+
 [Punch Nounou](cocktails/Punch_Nounou.md)
 
 [Whisky Cannelle](cocktails/Whisky_Cannelle.md)
